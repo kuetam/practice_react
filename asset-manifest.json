@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.js": "/practice_react/static/js/main.d14232f4.js",
+    "main.js": "/practice_react/static/js/main.7cdd381b.js",
     "index.html": "/practice_react/index.html",
-    "main.d14232f4.js.map": "/practice_react/static/js/main.d14232f4.js.map"
+    "main.7cdd381b.js.map": "/practice_react/static/js/main.7cdd381b.js.map"
   },
   "entrypoints": [
-    "static/js/main.d14232f4.js"
+    "static/js/main.7cdd381b.js"
   ]
 }
